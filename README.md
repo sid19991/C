@@ -86,6 +86,8 @@ C
 	- Greatest Common Divisor
 	- Sudoku Solver
 	- prime factorization
+	- floyd-warshal
+	- bellman-ford
 
 ## Project Euler
 	- Problem 1
